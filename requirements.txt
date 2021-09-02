@@ -2,8 +2,10 @@
 # you may need to pip install it on it's own
 # before installing the remaining requirements
 # pip install pystan=2.19.1.1
+pystan==2.19.1.1
 
 fastapi==0.68.0
+gunicorn==20.1.0
 uvicorn==0.14.0
 
 fbprophet==0.7.1
