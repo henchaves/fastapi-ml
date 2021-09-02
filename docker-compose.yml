@@ -1,0 +1,11 @@
+version: '3.8'
+
+services: 
+  fastapi-ml:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes: 
+      - .:/usr/src/app
+    ports: 
+      - 8008:8008
