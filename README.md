@@ -2,10 +2,10 @@
 
 Tutorial from [testdriven.io](https://testdriven.io/blog/fastapi-machine-learning/)
 
-* Create an app using FastAPI
-* Train a stock price ML model using Prophet
-* Get predictions via Rest API
-* Deploy to Heroku
+* Develop a RESTful API with Python and FastAPI
+* Build a basic machine learning model to predict stock prices
+* Deploy a FastAPI app to Heroku
+* Use the Heroku Container Registry for deploying Docker to Heroku
 
 
 
